@@ -1,0 +1,9 @@
+{
+  "name": "280619_vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@vue/cli": "^3.8.4"
+  }
+}
