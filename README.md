@@ -2,4 +2,4 @@
 
 https://nikitapo.github.io/280619_vue/
 
-![](/1.png)
+[](/1.png)
